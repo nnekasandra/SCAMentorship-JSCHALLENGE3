@@ -1,4 +1,4 @@
-<!-- Hello!
+<!-- Hello everyone!
 This is your third JavaScript challenge.
 
 
